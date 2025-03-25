@@ -39,3 +39,10 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
+
+</br>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats-weeshshs-projects.vercel.app/api?username=weeshsh&hide=stars&show_icons=true&theme=dracula&hide_title=true&rank_icon=github&exclude_repo=github-readme-stats" />
+</div>

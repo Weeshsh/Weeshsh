@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-weeshshs-projects.vercel.app/api/top-langs?username=Weeshsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&exclude_repo=github-readme-stats&hide=javascript,php,shell" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-weeshshs-projects.vercel.app/api/top-langs?username=Weeshsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&exclude_repo=github-readme-stats&hide=shell" height="150" alt="languages graph"  />
 </div>
 
 ###

@@ -14,13 +14,53 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-###
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,git,linux" />
-  </a>
-</p>
+<p align="center">Work:</p>
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=regex" height="30" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" />
+  
+</div>
+
+
+<p align="center">Projects:</p>
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=autocad" height="30" />
+</div>
+
+<p align="center">Languages:</p>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+</div>
+
+
+<p align="center">Other:</p>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="30" />
+</div>
 
 ###
 

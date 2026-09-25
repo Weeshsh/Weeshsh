@@ -1,88 +1,60 @@
 <h1 align="center">Mikołaj Wiszniewski</h1>
 
-###
+<p align="center">
+  Student Informatyki na Politechnice Gdańskiej · Developer
+</p>
 
-<h5 align="center">Informatyka WETI Politechnika Gdańska  2023/2024</h5>
+<p align="center">
+  C++ · Python · SQL · Data · Embedded
+</p>
 
-###
+<br>
+
+<h3 align="center">Technologie</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-weeshshs-projects.vercel.app/api/top-langs?username=Weeshsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&exclude_repo=github-readme-stats,dotfiles&hide=jupyter%20notebook" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=cpp,python,bash,git,linux,docker" height="40" />
 </div>
 
-###
-
-<h3 align="center">Languages and Tools:</h3>
-
-
-<p align="center">Work:</p>
-
+<br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=regex" height="30" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="38" alt="Oracle" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="38" alt="MS SQL Server" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="38" alt="Arduino" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="38" alt="Raspberry Pi" />
 </div>
 
+<br>
 
-<p align="center">Projects:</p>
+<p align="center">
+  Oracle APEX · Ab Initio · Power BI · SSIS · SSAS · ESP32
+</p>
 
+<br>
+
+<h3 align="center">GitHub</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="30" />
+  <img
+    src="https://github-readme-stats-weeshshs-projects.vercel.app/api/top-langs?username=Weeshsh&locale=pl&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&exclude_repo=github-readme-stats,dotfiles&hide=jupyter%20notebook"
+    height="150"
+    alt="Najczęściej używane języki"
+  />
 </div>
 
-<p align="center">Languages:</p>
+<br>
+
+<h3 align="center">Kontakt</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-</div>
-
-
-<p align="center">Other:</p>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="30" />
-</div>
-
-###
-
-<h3 align="center">Contact me</h3>
-
-###
-
-<div align="center">
-  <a href="mailto:mikowisz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:mikowisz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
   </a>
-  <a href="https://www.linkedin.com/in/miko%C5%82aj-wiszniewski-aa6293292/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/miko%C5%82aj-wiszniewski-aa6293292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
   </a>
-  <a href="https://fb.com/mikolajwiszniewskii" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
-
-</br>
-
-###
-<div align="center">
-  <img src="https://github-readme-stats-weeshshs-projects.vercel.app/api?username=weeshsh&hide=stars&show_icons=true&theme=dracula&hide_title=true&rank_icon=github&exclude_repo=github-readme-stats" />
 </div>
